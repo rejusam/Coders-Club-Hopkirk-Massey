@@ -1,7 +1,7 @@
 ### Setting Up Your Computer For Python 
 This guide attempts to give you all the instructions to be followed to setup your computer. It might happen that your system is unique in terms of the Operating System or existing configuration and that some of these instructions will simply not work. We hope you will be able to take help of your colleagues and friends to overcome such hurdles.
 
-The main language to be used is Python 3.6 or greater. It is definitely possible for you to install Python from scratch and every single package manually but unless you have vast prior experience in doing this we strongly discourage you to do this. Instead, we will say thank you to the kind folks at Continuum Analytics for providing us with Anaconda!
+The main language to be used is Python 3.6 or higher. It is definitely possible for you to install Python from scratch and every single package manually but unless you have vast prior experience in doing this we strongly discourage you to do this. Instead, we will say thank you to the kind folks at Continuum Analytics for providing us with Anaconda!
 
 Anaconda is a big bundle of goodies which when installed will give you direct access to Python, R and Scala - the leading languages of Data Science. The bundle also has several 3rd party libraries pre-installed thus saving you the effort of manually installing these. We have provided below instructions for installing Anaconda on Windows and Linux. Note that you will need at least 2GB of free hard disk space wherever you install Anaconda.
 
