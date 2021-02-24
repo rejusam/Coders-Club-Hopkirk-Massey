@@ -20,7 +20,7 @@ Anaconda is a big bundle of goodies which when installed will give you direct ac
 11. The installation will continue for a while.
 12. When prompted regarding modification of .bashrc, go ahead and type 'yes', followed by Enter. (You may want to note that the original .bashrc has been backed up so you can compare and see what changes were made.)
 13. Now, our current terminal does not reflect the new .bashrc changes, we can either close the Terminal and start a new one so that it uses the latest additions made by Anaconda to the .bashrc OR to update existing terminal, we can say `source ~/.bashrc `  YOU NEED TO DO THIS ONLY ONCE. FUTURE TERMINAL INSTANCES WILL NOT NEED THIS.
-14. Type `jupyter notebook` and play around. Get a feel for both these environments.
+14. Type `jupyter notebook` and play around. Get a feel for this environments.
 
 ### Installing Anaconda on Windows
 
